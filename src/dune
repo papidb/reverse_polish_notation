@@ -1,0 +1,3 @@
+(executable
+ (public_name polish_notation)
+ (name main))
